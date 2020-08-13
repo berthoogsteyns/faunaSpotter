@@ -1,4 +1,4 @@
-package com.example.faunaspot.ui
+package com.example.faunaspot.ui.theme
 
 import androidx.ui.foundation.shape.corner.RoundedCornerShape
 import androidx.ui.material.Shapes

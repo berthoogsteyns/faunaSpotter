@@ -1,4 +1,4 @@
-package com.example.faunaspot.ui
+package com.example.faunaspot.ui.theme
 
 import androidx.ui.material.Typography
 import androidx.ui.text.TextStyle
