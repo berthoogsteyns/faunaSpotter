@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">faunaSpotV2</string>
+    <!-- Strings related to login -->
+    <string name="add_spot">add spot</string>
+    <string name="hint_animal">animal...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Spot was not saved because it is empty.</string>
+    <string name="title_home">Spots</string>
+    <string name="statistics">statistieken</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
